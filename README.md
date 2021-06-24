@@ -10,7 +10,7 @@ pip3 install PyInsta
 ```
 ### Installation With Git
 ```shell script
-git clone https://github.com/BLUE-DEVIL1134/PyInsta
+git clone https://github.com/ItsTrakos/Py-insta
 cd PyInsta
 python3 setup.py install
 ```
